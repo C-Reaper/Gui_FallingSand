@@ -1,14 +1,6 @@
-// #include "C:/Wichtig/System/Static/Library/WindowEngine.h"
-// #include "C:/Wichtig/System/Static/Library/Victor2.h"
-// #include "C:/Wichtig/System/Static/Library/Vdctor2.h"
-// #include "C:/Wichtig/System/Static/Library/Complex.h"
-// #include "C:/Wichtig/System/Static/Library/TransformedView.h"
-// #include "C:\Wichtig\System\Static\Container\Vector.h"
-
 #include "/home/codeleaded/System/Static/Library/WindowEngine.h"
 #include "/home/codeleaded/System/Static/Library/Random.h"
 #include "/home/codeleaded/System/Static/Library/TransformedView.h"
-
 
 #define WORLD_X			200
 #define WORLD_Y			200
